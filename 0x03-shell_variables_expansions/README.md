@@ -7,3 +7,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 `3-paths` | Counts the number of the directories in the PATH file
 4-global_variables` | Lists environment variables
 5-local_variables` | Lists all local variables and environment variables, and functions
+6-create_local_variable` | Creates a new local variable named `BETTY`
