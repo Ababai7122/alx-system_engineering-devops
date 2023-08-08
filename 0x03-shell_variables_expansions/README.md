@@ -17,3 +17,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 11-binary_to_decimal` | Converts a number from base 2 to base 10
 12-combinations
 12-combinations` | Prints all possible combinations of two letters, except `oo`
+3-print_float` | Prints a number with two decimal places. The number is stored in the environment variable `NUM`
