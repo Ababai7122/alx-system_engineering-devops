@@ -19,3 +19,5 @@ grep to display the line -i to be cse insensitive for letters from a-z in the fi
 tr to replace the first leter a and c with z and e
 tr command to remove te litters
 rev command to reverse the input of the script
+cut to desplay user (-d) stand for directories -f1 for file one  in the folder  and sort them bt sort
+cut to desplay user (-d) stand for directories -f1 for file one  in the folder  and sort them bt sort
