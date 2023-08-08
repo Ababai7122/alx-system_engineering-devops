@@ -9,3 +9,4 @@ echo comman is used to write Best school in the file that xontains special carac
 > sigh is used to over right the content of the file and creat one if not exist
 tail -n command is used to diplicate the last line and >> sign is to no overright the content of the file
 find command to tind the file (.) to identify the current directory -type f to define that its reguler file (*.js) to highligh all js files 9-delete) to delete the files
+ls to list firles (-t1) to list the last 10 lines | head for the first lines
