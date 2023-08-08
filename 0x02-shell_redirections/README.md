@@ -7,3 +7,4 @@ head command is used to Display the first 10 lines of file
 head (line number) file name | tail (line number) is the command used to desplay third line in a file
 echo comman is used to write Best school in the file that xontains special caracters after editing the file name by adding / to every special caracter
 > sigh is used to over right the content of the file and creat one if not exist
+tail -n command is used to diplicate the last line and >> sign is to no overright the content of the file
