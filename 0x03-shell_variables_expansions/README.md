@@ -20,3 +20,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 3-print_float` | Prints a number with two decimal places. The number is stored in the environment variable `NUM`
 100-rot13` | Encodes and decodes text using the rot13 encryption
 101-odd` | Prints every other line from the input, starting with the first line
+02-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result
