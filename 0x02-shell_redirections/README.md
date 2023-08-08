@@ -16,3 +16,4 @@ grep -i to desplay thenumber of lines contains the puttern ben without case sins
 grep to desplay the line (-i) to be case insensitive (A) for all th pusttern "root" in the file /etc/passwd
 grep command to desplay the lines and (-v) refer to not matching the pattern bin in the file etc/passwd
 grep to display the line -i to be cse insensitive for letters from a-z in the file defined
+tr to replace the first leter a and c with z and e
