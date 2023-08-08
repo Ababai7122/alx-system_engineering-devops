@@ -11,3 +11,4 @@ tail -n command is used to diplicate the last line and >> sign is to no overrigh
 find command to tind the file (.) to identify the current directory -type f to define that its reguler file (*.js) to highligh all js files 9-delete) to delete the files
 ls to list firles (-t1) to list the last 10 lines | head for the first lines
 sort to sort file | uniq to identfy uniqe files and -u
+grep command Display lines containing the pattern “root” -i to ignore case sensitive  from the file etc/passwd
