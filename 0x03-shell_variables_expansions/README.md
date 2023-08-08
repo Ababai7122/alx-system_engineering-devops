@@ -19,3 +19,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 12-combinations` | Prints all possible combinations of two letters, except `oo`
 3-print_float` | Prints a number with two decimal places. The number is stored in the environment variable `NUM`
 100-rot13` | Encodes and decodes text using the rot13 encryption
+101-odd` | Prints every other line from the input, starting with the first line
