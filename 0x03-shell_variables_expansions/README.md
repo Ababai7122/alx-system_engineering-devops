@@ -5,3 +5,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 `2-path` | Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program |
 2-path` | Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program |
 `3-paths` | Counts the number of the directories in the PATH file
+4-global_variables` | Lists environment variables
