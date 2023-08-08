@@ -9,3 +9,4 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 5-local_variables` | Lists all local variables and environment variables, and functions
 6-create_local_variable` | Creates a new local variable named `BETTY`
 7-create_global_variable` | Creates a new global variable named `HOLBERTON
+8-true_knowledge` | Prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line
