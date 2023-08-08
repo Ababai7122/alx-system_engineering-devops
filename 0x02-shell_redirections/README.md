@@ -22,3 +22,4 @@ rev command to reverse the input of the script
 cut to desplay user (-d) stand for directories -f1 for file one  in the folder  and sort them bt sort
 cut to desplay user (-d) stand for directories -f1 for file one  in the folder  and sort them bt sort
  find command to find files (.) refer to the cerrunt directry (-empty) for empty files (rev) reversed order (cut) -d directories in the (/0 sub directories (-f) for files and 1 represent file per line in rev
+find files with the name .git in revers order and directories in the sub directories file per line and directories in the current directory in reverse order
