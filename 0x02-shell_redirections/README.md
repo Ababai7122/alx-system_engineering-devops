@@ -14,3 +14,4 @@ sort to sort file | uniq to identfy uniqe files and -u
 grep command Display lines containing the pattern “root” -i to ignore case sensitive  from the file etc/passwd
 grep -i to desplay thenumber of lines contains the puttern ben without case sinsitive (-i) in the file /etc/passwd
 grep to desplay the line (-i) to be case insensitive (A) for all th pusttern "root" in the file /etc/passwd
+grep command to desplay the lines and (-v) refer to not matching the pattern bin in the file etc/passwd
