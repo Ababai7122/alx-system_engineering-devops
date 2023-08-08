@@ -13,3 +13,4 @@ ls to list firles (-t1) to list the last 10 lines | head for the first lines
 sort to sort file | uniq to identfy uniqe files and -u
 grep command Display lines containing the pattern “root” -i to ignore case sensitive  from the file etc/passwd
 grep -i to desplay thenumber of lines contains the puttern ben without case sinsitive (-i) in the file /etc/passwd
+grep to desplay the line (-i) to be case insensitive (A) for all th pusttern "root" in the file /etc/passwd
