@@ -18,3 +18,4 @@ grep command to desplay the lines and (-v) refer to not matching the pattern bin
 grep to display the line -i to be cse insensitive for letters from a-z in the file defined
 tr to replace the first leter a and c with z and e
 tr command to remove te litters
+rev command to reverse the input of the script
