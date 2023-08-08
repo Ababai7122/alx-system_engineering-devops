@@ -21,3 +21,5 @@ alias command to creat an aleas and ls="rm *" is the nameand value
 100-rot13` | Encodes and decodes text using the rot13 encryption
 101-odd` | Prints every other line from the input, starting with the first line
 02-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result
+script that adds the two numbers stored in the environment variables
+script that adds the two numbers stored in the environment variables
